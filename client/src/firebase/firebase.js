@@ -2,7 +2,7 @@ import firebase from 'firebase';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: 'AIzaSyCV2chDXCqLrbAdkmZrbZyBkJj8LUNFxg0',
+  apiKey: '',
   authDomain: 'mern-stack-ecommerce-72150.firebaseapp.com',
   projectId: 'mern-stack-ecommerce-72150',
   storageBucket: 'mern-stack-ecommerce-72150.appspot.com',
